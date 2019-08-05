@@ -9,7 +9,7 @@
 
 ```sh
 # clone it
-git clone https://github.com/muhzi4u/todo-app-using-react-hooks.git
+git clone https://github.com/loderosier/todo-app-using-react-hooks.git
 cd todo-app-using-react-hooks
 # Make it your own
 rm -rf .git && git init
