@@ -5,20 +5,7 @@
 
 ## Getting Started
 
-#### Clone the project
-
-```sh
-# clone it
-git clone https://github.com/loderosier/todo-app-using-react-hooks.git
-cd todo-app-using-react-hooks
-# Make it your own
-rm -rf .git && git init
 # Install dependencies
 yarn install
 # Start
 yarn start
-```
-
-## License
-
-MIT
